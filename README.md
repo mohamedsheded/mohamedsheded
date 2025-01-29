@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there! 👋 I'm Muhammed Sheded
 
-<!--
-**mohamedsheded/mohamedsheded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Engineer | NLP & LLMs Enthusiast**
 
-Here are some ideas to get you started:
+I am an AI Engineer with one year of experience, including an internship at **Valeo**, where I took on full-time engineering responsibilities. My expertise lies in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**, with a strong focus on information retrieval, fine-tuning, and RAG pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 **What I Do**
+- **Fine-Tuning LLMs**: Proficient in LoRA & QLoRA techniques for test case generation from natural language requirements.
+- **Retrieval-Augmented Generation (RAG)**: Skilled in building RAG pipelines using **Langchain** & **LlamaIndex** for private document interactions.
+- **Knowledge Graphs**: Hands-on experience with **Neo4j** and **Cypher** for self-learning systems.
+- **Transformer Architectures**: Strong grasp of **BERT, GPT, Llama, T5**, and their applications.
+- **Information Retrieval**: Expertise in **Sparse, Dense, and Hybrid retrieval** techniques.
+- **Vector Databases**: Experienced with **Pinecone, Qdrant, FAISS, Chroma**.
+- **Semantic Searching**: Skilled in **HNSW, Siamese architectures (bi-encoder, SBERT)**.
+- **RAG Evaluation**: Assessing pipelines using **RAG Triad evaluation** (context relevance, answer relevance, groundedness).
+- **Prompt Engineering**: Chain of Thought (**CoT**), **ReAct**, **Self-ask** and building agents.
+- **Foundational Knowledge**: Deep understanding of **RNNs, LSTMs**, and transformer pre-training & fine-tuning.
+
+### 📚 **Continuous Learning**
+I stay updated with the latest AI & NLP advancements and enjoy experimenting with cutting-edge research.
+
+📫 **Let's Connect!**  
+💼 [LinkedIn](https://www.linkedin.com/in/mohamed-sheded-50078920b/)  
+📂 [GitHub](https://github.com/mohamedsheded)  
+

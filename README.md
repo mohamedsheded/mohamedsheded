@@ -2,7 +2,7 @@
 
 🚀 **AI Engineer | NLP & LLMs Enthusiast**
 
-I am an AI Engineer with one year of experience, including an internship at **Valeo**, where I took on full-time engineering responsibilities. My expertise lies in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**, with a strong focus on information retrieval, fine-tuning, and RAG pipelines.
+I am an AI Engineer with one year of experience. My expertise lies in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**, with a strong focus on information retrieval, fine-tuning, and RAG pipelines.
 
 ### 🔬 **What I Do**
 - **Fine-Tuning LLMs**: Proficient in LoRA & QLoRA techniques for test case generation from natural language requirements.
@@ -17,6 +17,7 @@ I am an AI Engineer with one year of experience, including an internship at **Va
 - **Foundational Knowledge**: Deep understanding of **RNNs, LSTMs**, and transformer pre-training & fine-tuning.
 
 ### 📚 **Continuous Learning**
+Currently working on **Multimodal LLMs** and more advanced **agentic workflows**.
 I stay updated with the latest AI & NLP advancements and enjoy experimenting with cutting-edge research.
 
 📫 **Let's Connect!**  

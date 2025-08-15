@@ -2,7 +2,7 @@
 
 🚀 **AI Engineer | NLP & LLMs Enthusiast**
 
-I am an AI Engineer with one year of experience. My expertise lies in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**, with a strong focus on information retrieval, fine-tuning, and RAG pipelines.
+I am an AI Engineer with 2 years of experience. My expertise lies in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**, with a strong focus on information retrieval, fine-tuning, and RAG pipelines.
 
 ### 🔬 **What I Do**
 - **Fine-Tuning LLMs**: Proficient in LoRA & QLoRA techniques for test case generation from natural language requirements.
